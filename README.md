@@ -42,7 +42,7 @@
 
 <br clear="both">
 
-<h4 align="left">About Me</h4>
+<h4 align="center">About Me</h4>
 
 ###
 
